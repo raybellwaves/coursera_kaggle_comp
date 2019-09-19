@@ -1,0 +1,11 @@
+name: ckc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - xgboost
+  - hyperopt
