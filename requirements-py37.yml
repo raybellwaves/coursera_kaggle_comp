@@ -7,5 +7,5 @@ dependencies:
   - scikit-learn
   - matplotlib
   - seaborn
-  - xgboost
+  - py-xgboost-gpu
   - hyperopt
